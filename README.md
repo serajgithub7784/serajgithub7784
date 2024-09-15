@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serajgithub7784&label=Profile%20views&color=0e75b6&style=flat" alt="serajgithub7784" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Developer**
+- 🌱 I’m currently learning **Full Stack Data Science and AI**
 
 - ⚡ I am funny 😊
 
