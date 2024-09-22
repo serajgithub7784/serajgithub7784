@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serajgithub7784&label=Profile%20views&color=0e75b6&style=flat" alt="serajgithub7784" /> </p>
 
+- 🌱 I’m currently learning **Data Analyst | Machine Learning | Artificial Intelligence**
+
 - 📫 How to reach me **mohdseraj808@gmail.com**
 
 - ⚡ Fun fact **I am funny :))**
